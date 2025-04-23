@@ -1,0 +1,11 @@
+numpy
+setuptools
+requests
+html2text
+langchain-community
+langchain-core
+beautifulsoup4
+openai
+torch
+faiss-cpu
+transformers

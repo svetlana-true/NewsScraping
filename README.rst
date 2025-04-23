@@ -1,0 +1,1 @@
+This project is designed to assess your problem-solving skills and ability to quickly learn and apply new technologies, specifically Generative AI (GenAI). You will develop a solution that extracts news articles from provided URLs, generates summaries and identifies topics using GenAI tools.

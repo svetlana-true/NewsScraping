@@ -17,7 +17,7 @@ class VectorDB:
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
         self.model = AutoModel.from_pretrained(self.model_name)
         
-        #for Fauss initialization
+        #for Faiss initialization
         self.fake_embeddings_size = 4096
 
         # save url separately for the output to user

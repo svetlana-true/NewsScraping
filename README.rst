@@ -6,7 +6,7 @@ Run the test with "python -m unittest tests/test_vector.py" command.
 
 The format of the input file is txt. This is an example:
 
-https://www.bbc.com/news/articles/czx415erwkwo
+https://www.bbc.com/news/articles/czx415erwkwo \n
 https://www.bbc.com/news/articles/ckgxk40ndk1o
 
 This is an example of the final result of two searches with the distance/score and the original url:
